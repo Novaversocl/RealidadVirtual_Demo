@@ -2,6 +2,11 @@
 
 Este proyecto es una demostración de realidad virtual que utiliza Three.js para gráficos 3D y TensorFlow.js junto con MediaPipe para la detección de manos en tiempo real. El objetivo es visualizar puntos clave de las manos en 3D y realizar interacciones con objetos 3D.
 
+
+![Animation2](https://github.com/user-attachments/assets/f3a84529-fb13-4609-833e-c824cda16653)
+
+
+
 ## Características
 
 - Detección de manos en tiempo real utilizando TensorFlow.js y MediaPipe.
