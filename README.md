@@ -8,10 +8,6 @@ Este proyecto es una demostración de realidad virtual que utiliza Three.js para
 - Visualización de puntos clave de las manos en un entorno 3D con Three.js.
 - Interacción con objetos 3D (por ejemplo, mover un cubo con la punta del dedo índice).
 
-## Requisitos
-
-- [Node.js](https://nodejs.org/) (para ejecutar el servidor local y manejar las dependencias).
-- [npm](https://www.npmjs.com/) (gestor de paquetes para instalar las dependencias).
 
 ## Instalación
 
